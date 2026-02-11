@@ -1,0 +1,186 @@
+{
+  "company": "SolarNova Energia",
+  "last_update": "2026-02-10",
+  "faq": [
+    {
+      "category": "Produtos",
+      "question": "Qual a diferença entre painéis monocristalinos e policristalinos?",
+      "answer": "Painéis monocristalinos são feitos de um único cristal de silício puro, oferecendo maior eficiência (15-20%) e estética escura. Os policristalinos usam vários fragmentos de silício, são azulados e têm eficiência levemente menor (13-16%), mas custo reduzido.",
+      "keywords": ["tipo de painel", "eficiência", "monocristalino", "policristalino"]
+    },
+    {
+      "category": "Geração de Energia",
+      "question": "Os painéis geram energia em dias nublados ou com chuva?",
+      "answer": "Sim, os painéis continuam gerando energia através da luz difusa, embora a produção seja reduzida para cerca de 10% a 25% da capacidade total em comparação a um dia ensolarado.",
+      "keywords": ["chuva", "nublado", "produção", "clima"]
+    },
+    {
+      "category": "Instalação",
+      "question": "Quanto tempo dura o processo de instalação?",
+      "answer": "A instalação física em residências costuma levar de 1 a 3 dias. No entanto, o processo completo (incluindo homologação com a concessionária) pode levar de 30 a 60 dias.",
+      "keywords": ["prazo", "tempo", "homologação"]
+    },
+    {
+      "category": "Preços e Pagamento",
+      "question": "Qual o tempo médio de retorno do investimento (payback)?",
+      "answer": "O retorno médio no Brasil varia entre 3 a 5 anos, dependendo da tarifa local de energia e do volume de radiação solar da região.",
+      "keywords": ["payback", "investimento", "retorno", "custo"]
+    },
+    {
+      "category": "Manutenção",
+      "question": "Com que frequência devo limpar meus painéis solares?",
+      "answer": "Recomendamos uma limpeza profissional a cada 6 ou 12 meses. Em locais com muita poeira ou poluição, a frequência pode ser maior para evitar perdas de até 25% na geração.",
+      "keywords": ["limpeza", "sujeira", "manutenção preventiva"]
+    },
+    {
+      "category": "Problemas Comuns",
+      "question": "O que fazer se o meu inversor mostrar uma luz vermelha?",
+      "answer": "Uma luz vermelha geralmente indica uma falha de isolamento ou de rede. Verifique o disjuntor do sistema solar e, se persistir, entre em contato com nosso suporte técnico.",
+      "keywords": ["erro", "inversor", "luz vermelha", "falha"]
+    },
+    {
+      "category": "Serviços",
+      "question": "A SolarNova cuida de toda a papelada com a concessionária?",
+      "answer": "Sim, cuidamos de todo o processo de engenharia, projeto e trâmites legais para a troca do medidor para o modelo bidirecional.",
+      "keywords": ["burocracia", "concessionária", "projeto"]
+    },
+    {
+      "category": "Produtos",
+      "question": "O que é o inversor solar e por que ele é necessário?",
+      "answer": "O inversor é o 'cérebro' do sistema. Ele converte a Corrente Contínua (CC) gerada pelos painéis em Corrente Alternada (CA), que é a eletricidade usada em sua casa.",
+      "keywords": ["inversor", "corrente", "funcionamento"]
+    },
+    {
+      "category": "Geração de Energia",
+      "question": "O que acontece com a energia que eu produzo mas não utilizo?",
+      "answer": "O excedente é enviado para a rede elétrica pública, gerando créditos que podem ser usados para abater sua conta em meses de baixa produção ou durante a noite.",
+      "keywords": ["créditos", "excedente", "conta de luz"]
+    },
+    {
+      "category": "Preços e Pagamento",
+      "question": "Existem linhas de financiamento específicas para energia solar?",
+      "answer": "Sim, trabalhamos com diversos bancos que oferecem taxas de juros reduzidas e carência de até 120 dias para o primeiro pagamento.",
+      "keywords": ["financiamento", "parcelas", "banco"]
+    },
+    {
+      "category": "Instalação",
+      "question": "Meu telhado precisa de reforço estrutural?",
+      "answer": "Na maioria dos casos não, pois os painéis são leves. No entanto, nossa equipe técnica realiza uma avaliação estrutural completa antes da instalação por segurança.",
+      "keywords": ["telhado", "peso", "estrutura"]
+    },
+    {
+      "category": "Manutenção",
+      "question": "Qual a vida útil de um sistema de energia solar?",
+      "answer": "Os painéis têm garantia de performance de 25 anos, mas podem durar mais de 30 anos. O inversor geralmente precisa de substituição ou reparo após 10-15 anos.",
+      "keywords": ["vida útil", "durabilidade", "garantia"]
+    },
+    {
+      "category": "Geração de Energia",
+      "question": "Se acabar a luz na rua, eu continuarei tendo energia?",
+      "answer": "Sistemas 'On-Grid' (conectados à rede) desligam automaticamente por segurança (anti-ilhamento). Apenas sistemas com baterias (Off-Grid ou Híbridos) mantêm o fornecimento.",
+      "keywords": ["apagão", "falta de luz", "segurança"]
+    },
+    {
+      "category": "Produtos",
+      "question": "O que são microinversores e quais as vantagens?",
+      "answer": "Microinversores são instalados individualmente atrás de cada painel. Eles otimizam a produção se houver sombreamento parcial e permitem monitoramento placa por placa.",
+      "keywords": ["microinversor", "sombra", "otimização"]
+    },
+    {
+      "category": "Instalação",
+      "question": "Posso instalar painéis solares em apartamentos?",
+      "answer": "Apenas se você tiver direito ao uso da cobertura ou via 'autoconsumo remoto', onde instalamos em outro local e os créditos abatem a conta do seu apartamento.",
+      "keywords": ["apartamento", "prédio", "remoto"]
+    },
+    {
+      "category": "Preços e Pagamento",
+      "question": "A instalação de painéis solares aumenta o valor do imóvel?",
+      "answer": "Sim, estudos indicam que imóveis com sistemas fotovoltaicos podem valorizar entre 3% a 6% no mercado imobiliário.",
+      "keywords": ["valorização", "venda", "imóvel"]
+    },
+    {
+      "category": "Problemas Comuns",
+      "question": "Pássaros e sombras de árvores podem danificar o sistema?",
+      "answer": "Sombras reduzem a produção. Sujeira de pássaros, se não removida, pode criar 'hotspots' que danificam as células a longo prazo. O monitoramento ajuda a detectar isso.",
+      "keywords": ["sombra", "pássaros", "sujeira", "hotspot"]
+    },
+    {
+      "category": "Geração de Energia",
+      "question": "Posso zerar minha conta de luz com energia solar?",
+      "answer": "Não totalmente. Você sempre pagará a taxa mínima da concessionária (custo de disponibilidade) e a iluminação pública.",
+      "keywords": ["zerar conta", "taxa mínima", "iluminação pública"]
+    },
+    {
+      "category": "Manutenção",
+      "question": "Como posso acompanhar o quanto meu sistema está gerando?",
+      "answer": "Fornecemos um aplicativo móvel e acesso web onde você pode ver a geração em tempo real, histórico diário e economia acumulada.",
+      "keywords": ["app", "monitoramento", "wi-fi"]
+    },
+    {
+      "category": "Produtos",
+      "question": "Os painéis resistem a chuvas de granizo?",
+      "answer": "Sim, os painéis são fabricados com vidro temperado de alta resistência, projetados para suportar impactos de granizo de acordo com normas internacionais.",
+      "keywords": ["granizo", "resistência", "vidro"]
+    },
+    {
+      "category": "Serviços",
+      "question": "A empresa oferece seguro para os equipamentos?",
+      "answer": "Oferecemos 1 ano de seguro contra danos climáticos e roubo incluído no pacote de instalação, com opção de renovação anual.",
+      "keywords": ["seguro", "roubo", "danos"]
+    },
+    {
+      "category": "Instalação",
+      "question": "O sistema pode ser instalado em solo ou apenas em telhados?",
+      "answer": "Pode ser instalado em solo usando estruturas de fixação específicas. Isso é comum em sítios ou empresas com grandes áreas livres.",
+      "keywords": ["solo", "usina", "fixação"]
+    },
+    {
+      "category": "Preços e Pagamento",
+      "question": "Se eu mudar de casa, posso levar o sistema comigo?",
+      "answer": "Sim, é possível desinstalar e reinstalar em outro local, porém os custos de mão de obra e novo projeto de homologação serão cobrados à parte.",
+      "keywords": ["mudança", "reinstalação", "transferência"]
+    },
+    {
+      "category": "Geração de Energia",
+      "question": "O que é eficiência de um painel solar?",
+      "answer": "É a porcentagem de energia da luz solar que o painel consegue converter em eletricidade por metro quadrado.",
+      "keywords": ["eficiência", "conversão"]
+    },
+    {
+      "category": "Manutenção",
+      "question": "O que acontece se um painel quebrar?",
+      "answer": "Se um painel quebrar, o sistema continuará funcionando, mas a produção cairá. Painéis individuais podem ser substituídos sem trocar todo o conjunto.",
+      "keywords": ["quebra", "substituição", "reparo"]
+    },
+    {
+      "category": "Produtos",
+      "question": "O sistema funciona à noite?",
+      "answer": "Não, o sistema não gera energia à noite. Nesse período, você consome da rede da concessionária ou de suas baterias, se houver.",
+      "keywords": ["noite", "armazenamento"]
+    },
+    {
+      "category": "Instalação",
+      "question": "Qual a inclinação ideal para os painéis?",
+      "answer": "No hemisfério sul, o ideal é que fiquem voltados para o Norte, com inclinação aproximadamente igual à latitude da sua cidade.",
+      "keywords": ["norte", "inclinação", "ângulo"]
+    },
+    {
+      "category": "Serviços",
+      "question": "Vocês realizam limpeza e manutenção para sistemas de outras empresas?",
+      "answer": "Sim, possuímos planos de manutenção e limpeza para sistemas fotovoltaicos de qualquer marca ou instalador.",
+      "keywords": ["terceiros", "assistência técnica"]
+    },
+    {
+      "category": "Problemas Comuns",
+      "question": "Por que minha economia diminuiu este mês?",
+      "answer": "Pode ser devido ao clima, sombreamento sazonal (crescimento de árvores) ou aumento súbito no consumo interno da residência.",
+      "keywords": ["economia", "queda", "consumo"]
+    },
+    {
+      "category": "Preços e Pagamento",
+      "question": "Posso usar meus créditos de energia para pagar a conta de outro endereço?",
+      "answer": "Sim, desde que a conta esteja no mesmo CPF/CNPJ e na mesma área de cobertura da concessionária de energia.",
+      "keywords": ["transferência de créditos", "beneficiário"]
+    }
+  ]
+}
