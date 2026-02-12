@@ -10,6 +10,9 @@ An intelligent, high-performance RAG (Retrieval-Augmented Generation) chat assis
 - **Modern UI**: Modern dark-mode interface built with Next.js 16, Tailwind CSS 4, and Ark UI.
 - **Source Transparency**: Shows exactly which FAQ entries were consulted to generate the answer.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/886b0f6e-9592-404f-baca-44ea43b470e6" />
+<img width="1920" height="1080" alt="chrome_sWyzx2ao7P" src="https://github.com/user-attachments/assets/dc674bb6-4e65-4b2b-a218-a23e07f1c90d" />
+
 ## 🛠️ Tech Stack
 
 ### Frontend (Client)
